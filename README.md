@@ -20,7 +20,6 @@ The result: the business runs faster, decisions are based on real data, and the 
 
 ## ✨ Features
 
-- **3D Storefront** — interactive 3D shoe viewer, catalogue with search and filtering, premium landing page.
 - **Inventory POS** — add / edit / delete / restock items, low-stock alerts, SKU tracking, cost vs. price margins.
 - **Billing & Invoices** — create orders, auto-compute totals, print or download polished PDF invoices.
 - **Analytics dashboard** — revenue, average order value, top sellers, units sold — daily, weekly, monthly, yearly or a custom date range.
